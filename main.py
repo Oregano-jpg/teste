@@ -1,1 +1,1 @@
-naem
+print("hello word")
